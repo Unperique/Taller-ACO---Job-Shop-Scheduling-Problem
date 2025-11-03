@@ -36,8 +36,6 @@ El programa muestra:
 - **Evaporación**: Permite exploración evitando convergencia prematura
 
 ## Autor
-Andres Felipe Morales Mejia — Código: 1004754257
+Andres Felipe Morales Mejia
 
-## Profesor
-Angel Augusto Agudelo Z
 
